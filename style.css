@@ -24,7 +24,7 @@
     margin:20px;
 }
 
-.filmesHead
+.filmsHead
 {
     font-size: 20px;
     padding: 6px 22px;
@@ -32,12 +32,12 @@
     margin-bottom: 15px;
 }
 
-.filmesHead i
+.filmsHead i
 {
     float: right;
 }
 
-.filmesText span
+.filmsText span
 {
     color: orange;
 }
@@ -52,4 +52,12 @@
     width: 20px;
 }
 
+.laranjalima
+{
+   width: 250px;
+}
 
+.abc
+{
+    width: 230px;
+}
